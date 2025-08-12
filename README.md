@@ -39,3 +39,14 @@ Basta um clique e o MacGyver **simula a ação necessária** diretamente no sist
   - Pressione Enter e o script será executado.
 
 ---
+# ❓Quando usar?
+1. Faturas geradas sem boleto.
+<img width="1905" height="994" alt="cal locaweb com br_customers_1100062384_bills_1006416005_search5D=agenciagruub search5D=customer_login" src="https://github.com/user-attachments/assets/2f53e78c-da4f-46be-838a-7e27bae72396" />
+2. Faturas sem botão de confirmar pagamento.
+<img width="1905" height="994" alt="cal locaweb com br_customers_1100062384_bills_1006416005_search5D=agenciagruub search5D=customer_login2" src="https://github.com/user-attachments/assets/d5d6b363-f4b9-4cb0-bd64-6d68a8a02a9f" />
+3. Gerar boleto de faturas cobradas no cartão de crédito.
+<img width="1905" height="932" alt="cal locaweb com br_customers_1100894323_bills_1006431723_search5D=businesssafe search5D=customer_login2png" src="https://github.com/user-attachments/assets/7848e574-c6b2-4a7b-bc58-dcc1d31f9793" />
+![Demonstração](https://github.com/user-attachments/assets/df762e4a-2bb6-48c5-b288-dfa75dc71748)
+
+
+
